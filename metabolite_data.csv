@@ -1,0 +1,39 @@
+Index,Compounds,Class I,Class II,Formula,VIP,p_value,Fold_Change,Log2FC,Type
+Wdtp003420,1-O-Feruloyl-beta-D-glucose,Phenolic acids,Phenolic acids,C16H20O9,1.48,0.1,0.225,-2.1529,down
+Wafp002988,1-O-Feruloyllysine,Alkaloids,Phenolamine,C16H22N2O5,1.43,0.004,0.46,-1.1204,down
+pmp000086,1-Feruloyl-sn-glycerol,Phenolic acids,Phenolic acids,C13H16O6,1.37,0.018,0.44,-1.1835,down
+MWStz409,"3,3',4',5,6,7,8-heptamethoxyflavone",Flavonoids,Flavonols,C22H24O9,1.04,0.4,0.091,-3.4547,down
+Wagp009375,"3,5,6,7-Tetramethoxyflavone",Flavonoids,Flavonols,C19H18O6,1.14,0.1,0.049,-4.3585,down
+Lagp003665,"4',5,7-Trihydroxy-6-methoxyisoflavone",Flavonoids,Isoflavones,C27H30O15,1.22,0.038,0.417,-1.2624,down
+,7-O-?-D-xylopyranosyl-(1?6)-?-D-glucopyranoside*,,,,,,,,
+MWSCX017,4-hydroxyphenyl acrylaldehyde,Others,Aldehyde compounds,C9H8O3,1.41,0.001,2.114,1.0802,up
+Hamp007846,"5,6,7,8-Tetramethoxyflavone",Flavonoids,Flavones,C19H18O6,1.08,0.2,0.062,-4.0226,down
+Zbgp008380,"5,7,8,4'-Tetramethoxyflavone",Flavonoids,Flavones,C19H18O6,1.1,0.2,0.052,-4.2659,down
+Zbzp004330,irilinB-7-glucoside-O-malonate,Flavonoids,Isoflavones,C25H24O14,1.34,0.031,0.174,-2.5235,down
+MWStz520,Daidzin 6''-O-malonate,Flavonoids,Isoflavones,C24H22O12,1.38,0.023,0.247,-2.0171,down
+Wmkp003574,9?-Hydroxyoxysophocarpine,Alkaloids,Quinorisidine alkaloids,C15H22N2O3,1.35,0.029,2.165,1.1146,up
+pme1261,D-Panthenol,Others,Vitamin,C9H19NO4,1.42,0.043,15.231,3.929,up
+Lhmp122203,Melanettin,Lignans and Coumarins,Coumarins,C16H12O5,1.17,0.045,2.745,1.4568,up
+Wcfp002357,N6-Threonylcarbamoyladenosine,Nucleotides and derivatives,Nucleotides and derivatives,C15H20N6O8,1.48,0.1,7.139,2.8357,up
+Wcfp004977,Malonyltryptophan,Amino acids and derivatives,Amino acids and derivatives,C14H14N2O5,1.34,0.004,5.18,2.373,up
+mws0043,"Nobiletin (5,6,7,8,3',4'-Hexamethoxyflavone)*",Flavonoids,Flavones,C21H22O8,1.09,0.2,0.065,-3.9407,down
+pmp000200,Soyasaponin ?e*,Terpenoids,Triterpene Saponin,C48H76O18,1.23,0.06,2.115,1.0808,up
+Zjgp101305,Licoricesaponin H2*,Terpenoids,Triterpene Saponin,C42H62O16,1.17,0.081,2.471,1.3051,up
+Hmhp005160,Rehderianin I*,Flavonoids,Flavones,C17H14O7,1.02,0.1,0.007,-7.081,down
+Lasp006294,Maackiain-3-O-glucosyl-6''-O-malonate,Flavonoids,Isoflavones,C25H24O13,1.41,0.005,0.447,-1.1628,down
+Lmlp005572,Galangin 7-glucoside,Flavonoids,Flavonols,C21H20O10,1.26,0.055,0.381,-1.3932,down
+Lamp005502,Quercetin feruloyl xylosyl malonyl glucoside,Flavonoids,Flavonols,C39H38O22,1.18,0.025,9.613,3.2649,up
+MWStz338,"Quercetin 3,4'-dimethyl ether*",Flavonoids,Flavonols,C17H14O7,1.06,0.1,0.007,-7.0665,down
+MWSHY0180,Glycitin,Flavonoids,Isoflavones,C22H22O10,1.39,0.008,0.407,-1.2978,down
+Lazp003122,Chrysoeriol xylosyl glucoside*,Flavonoids,Flavones,C27H30O15,1.42,0.004,0.339,-1.5603,down
+Lazp002675,Chrysoeriol glucosyl malonyl glucoside,Flavonoids,Flavones,C31H34O19,1.13,0.082,0.463,-1.1121,down
+Zbrp003982,Sulfurein; Sulfuretin-6-O-glucoside,Flavonoids,Aurones,C21H20O10,1.41,0.017,0.334,-1.5799,down
+Lamp006734,Formononetin 7-O-(6''-Acetylglucoside),Flavonoids,Isoflavones,C24H24O10,1.22,0.036,0.49,-1.0279,down
+Laxp007708,Medicarpin 3-O-(6'-malonylgluclside)*,Flavonoids,Isoflavones,C25H26O12,1.37,0.005,0.259,-1.9498,down
+Zbzp006804,Medicarpin 3-O-glucoside-6'-malonate*,Flavonoids,Isoflavones,C25H26O12,1.4,0.006,0.269,-1.8946,down
+Hmqp003066,Luteolin-7-O-(6'''-malonyl)sophoroside-5-O-arabinoside,Flavonoids,Flavones,C35H40O23,1.45,0.003,0.325,-1.6227,down
+Zmxp005470,Tricin-7-O-(6''-O-malonyl)glucoside,Flavonoids,Flavones,C26H26O15,1.46,0.004,0.198,-2.3331,down
+Lamp005631,Hydroxymethyl coumarin xyloside,Lignans and Coumarins,Coumarins,C15H16O7,1.34,0.001,10.198,3.3502,up
+Lamp003722,Apigenin glucosyl malonyl glucoside*,Flavonoids,Flavones,C30H32O18,1.41,0.01,0.317,-1.6561,down
+Lasp003235,Genistein glucosyl malonyl glucoside*,Flavonoids,Isoflavones,C30H32O18,1.39,0.013,0.339,-1.5621,down
+Lamp005778,Kaempferol feruloyl xylosyl malonyl glucoside,Flavonoids,Flavonols,C39H38O21,1.12,0.004,8.94,3.1603,up
